@@ -2,7 +2,7 @@
 Platform pelaporan kekerasan dan pelecehan di lingkungan kampus berbasis AI.
 
 ## Cara menjalankan program
-1. install librarynya terkebih dahulu yaitu: pip install streamlit
+1. install librarynya terlebih dahulu di terminal dengan mengetik: pip install streamlit
 2. kemudian, jalankan aplikasinya di terminal dengan tekan ctrl+j dan ketik: streamlit run app.py
 3. setelah dirun, program akan membawa menuju browser secara otomatis dan aplikasi resQ akan terbukaa... yeayy-!!
 
